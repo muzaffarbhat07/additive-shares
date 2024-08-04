@@ -8,7 +8,7 @@
 
 ##### Setup
 - clone the project
-- cd additive_shares
+- cd additive-shares
 - Run the following commands
 ```bash
 gcc -c utils.c -Ipath/to/trezor-crypto/include -Lpath/to/trezor-crypto -ltrezor-crypto -lssl -lcrypto -o utils.o
