@@ -5,7 +5,7 @@
 ##### Pre-requisites
 
 - openssl library along with its development package libssl-dev
-- [trezor-crypto](https://github.com/trezor/trezor-firmware/tree/main/crypto){:target="\_blank"} library
+- [trezor-crypto](https://github.com/trezor/trezor-firmware/tree/main/crypto) library
 
 ##### Setup
 
